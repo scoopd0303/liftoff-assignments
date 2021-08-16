@@ -7,13 +7,12 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-- ![wireframe for /login](wireframes/login.png)
-- ![wireframe for /dash](wireframes/dashboard.png)
-- ![wireframe for /browse](wireframes/browse.png)
-- ![wireframe for /browse/parameter](wireframes/browse/parameter.png)
-- ![wireframe for /view/bookid](wireframes/view/bookid.png)
-- ![wireframe for /view/userid](wireframes/view/userid.png)
+ -     [Landing Page](https://i.imgur.com/MgTSNdJ.png)
+ -     [Register](https://i.imgur.com/hTzEmvL.png)
+ -     [Login](https://i.imgur.com/O9CiCPV.png)
+ -     [User Dashboard](https://i.imgur.com/9zlYb6H.png)
+ -     [Add Book](https://i.imgur.com/M0nwkMR.png)
+ -     [View Book](https://i.imgur.com/sx82Wak.png)
 
 ### Project Tracker
 
