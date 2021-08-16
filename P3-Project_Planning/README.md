@@ -16,8 +16,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 
-https://trello.com/b/DFsLPcVr/liftoff-library-app
+[Group project Trello board](https://trello.com/b/DFsLPcVr/liftoff-library-app)
 
 ### Project Repo Link
 
-https://github.com/LaunchCodeLiftoffProjects/zachary-group-b
+[Group project GitHub Repo](https://github.com/LaunchCodeLiftoffProjects/zachary-group-b)
