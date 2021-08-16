@@ -8,12 +8,17 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+- ![wireframe for /login](wireframes/login.png)
+- ![wireframe for /dash](wireframes/dashboard.png)
+- ![wireframe for /browse](wireframes/browse.png)
+- ![wireframe for /browse/parameter](wireframes/browse/parameter.png)
+- ![wireframe for /view/bookid](wireframes/view/bookid.png)
+- ![wireframe for /view/userid](wireframes/view/userid.png)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/DFsLPcVr/liftoff-library-app
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/LaunchCodeLiftoffProjects/zachary-group-b
